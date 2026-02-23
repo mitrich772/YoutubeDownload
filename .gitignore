@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Settings (user-specific)
+.youtube_downloader_settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# FFmpeg binaries (too large for git)
+ffmpeg.exe
+ffprobe.exe
