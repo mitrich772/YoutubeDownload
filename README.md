@@ -53,7 +53,7 @@ FFmpeg нужен для:
 - Скачивания видео в 1080p и выше (DASH-форматы)
 - Конвертации аудио в MP3
 
-**Windows:** скачайте с [ffmpeg.org](https://ffmpeg.org/download.html) и поместите `ffmpeg.exe` / `ffprobe.exe` в папку с приложением или добавьте в PATH.
+**Windows:** скачайте готовую сборку с [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds/releases) (рекомендуется файл `...-win64-gpl.zip`) или с [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) (раздел *git master builds*). Распакуйте архив, извлеките `ffmpeg.exe` и `ffprobe.exe` из папки `bin` и поместите их в папку с приложением (либо добавьте в PATH).
 
 **macOS:**
 ```bash
